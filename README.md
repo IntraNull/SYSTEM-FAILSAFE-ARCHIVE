@@ -11,3 +11,7 @@ This is about recovery architecture.
 Every file here = an echo of structural failure and the logic it revealed.
 
 Read, don't rewrite.
+
+
+#code-vs-soul
+#Radaprotocol
